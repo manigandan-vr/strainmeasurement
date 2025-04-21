@@ -1,0 +1,62 @@
+[
+  {
+    "source": "eps-2",
+    "model": "MAS#65",
+    "selected_station": "ICT",
+    "create_date": "2025-04-24",
+    "retention": "6 months",
+    "expiry_date": "2025-10-21",
+    "measured_by": "Mani",
+    "approved_by": "Mani",
+    "document_filename": "Strain measurements report.pptx",
+    "remarks": "mani"
+  },
+  {
+    "source": "ebs-2",
+    "model": "PBB",
+    "selected_station": "Screwing",
+    "measured_date": "2025-04-01",
+    "retention": "3 months",
+    "expiry_date": "2025-06-30",
+    "measured_by": "Mani",
+    "approved_by": "Mani",
+    "document_filename": "Strain measurements report.pptx",
+    "remarks": ""
+  },
+  {
+    "source": "eps-1",
+    "model": "MAS#65",
+    "selected_station": "ICT",
+    "measured_date": "2025-04-09",
+    "retention": "3 months",
+    "expiry_date": "2025-07-08",
+    "measured_by": "Mani",
+    "approved_by": "Mani",
+    "document_filename": "Strain measurements report.pptx",
+    "remarks": ""
+  },
+  {
+    "source": "eps-1",
+    "model": "MAS#65",
+    "selected_station": "Screwing",
+    "measured_date": "2025-01-27",
+    "retention": "3 months",
+    "expiry_date": "2025-04-27",
+    "measured_by": "Mani",
+    "approved_by": "Mani",
+    "document_filename": "Strain measurements report.pptx",
+    "remarks": ""
+  },
+  {
+    "source": "tas-1",
+    "model": "RTAS",
+    "selected_station": "ICT",
+    "measured_date": "2025-04-03",
+    "retention": "3 months",
+    "expiry_date": "2025-07-02",
+    "measured_by": "mnai",
+    "approved_by": "Mani",
+    "document_filename": "Strain measurements report.pptx",
+    "remarks": "MANI"
+  }
+]
